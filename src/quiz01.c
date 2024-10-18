@@ -1,6 +1,8 @@
 #include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
 int main() {
+    
+    // 변수 지정
     char name1[10], name2[10], name3[10];
     int age1, age2, age3;
     float height1, height2, height3;
