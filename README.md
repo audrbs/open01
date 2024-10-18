@@ -23,6 +23,10 @@ SSUAI 챗봇을 통해 학생들은 더 이상 여러 개의 앱을 번거롭게
 - **데이터베이스**: SQLite
 - **호스팅**: Heroku
 
+## 프로젝트 관련 이미지
+![SSUAI 대표 이미지]("C:\Users\bbmk3\OneDrive\바탕 화면\시스템개요 플로우차트.png")
+![SSUAI 플로우 차트]("C:\Users\bbmk3\OneDrive\바탕 화면\SSUAI 그림.png")
+
 ## 관련 링크
 
 1. **Rasa**: 오픈소스 자연어 처리 플랫폼
@@ -31,3 +35,18 @@ SSUAI 챗봇을 통해 학생들은 더 이상 여러 개의 앱을 번거롭게
 2. **Heroku**: 웹 무료 호스팅
    ```bash
    [Heroku](https://rasa.com/)
+3. **Flask**: 백엔드 웹 프레임워크  
+   ```bash  
+   [Flask](https://flask.palletsprojects.com/)
+   
+4. **PostgreSQL**: 확장 가능 데이터베이스  
+   ```bash  
+   [PostgreSQL](https://www.postgresql.org/)
+   
+5. **SQLite**: 데이터베이스  
+   ```bash  
+   [SQLite](https://sqlite.org/)
+   
+6. **PWA**: 웹앱 기술  
+   ```bash  
+   [PWA 개요](https://web.dev/progressive-web-apps/)
