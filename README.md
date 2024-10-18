@@ -25,7 +25,7 @@ SSUAI 챗봇을 통해 학생들은 더 이상 여러 개의 앱을 번거롭게
 
 ## 프로젝트 관련 이미지
 ![SSUAI 대표 이미지](https://github.com/audrbs/open01/blob/main/png/SSUAI%20%EA%B7%B8%EB%A6%BC.png)
-![SSUAI 플로우 차트]
+![SSUAI 플로우 차트](https://github.com/audrbs/open01/blob/main/png/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B0%9C%EC%9A%94%20%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%B0%A8%ED%8A%B8.png)
 
 ## 관련 링크
 
