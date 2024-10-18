@@ -28,3 +28,6 @@ SSUAI 챗봇을 통해 학생들은 더 이상 여러 개의 앱을 번거롭게
 1. **Rasa**: 오픈소스 자연어 처리 플랫폼
    ```bash
    [Rasa](https://rasa.com/)
+2. **Heroku**: 웹 무료 호스팅
+   ```bash
+   [Heroku](https://rasa.com/)
