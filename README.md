@@ -24,7 +24,7 @@ SSUAI 챗봇을 통해 학생들은 더 이상 여러 개의 앱을 번거롭게
 - **호스팅**: Heroku
 
 ## 프로젝트 관련 이미지
-![SSUAI 대표 이미지]("C:\Users\bbmk3\OneDrive\바탕 화면\시스템개요 플로우차트.png")
+![SSUAI 대표 이미지]("png/SSUAI 그림.png")
 ![SSUAI 플로우 차트]("C:\Users\bbmk3\OneDrive\바탕 화면\SSUAI 그림.png")
 
 ## 관련 링크
